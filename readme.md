@@ -1,7 +1,11 @@
-﻿# LAB2
-﻿## sottotitolo
-nuova riga zio pera
-Niciols
-seconda riga
-aoooooooooo sambucone molinari aaaaayaaaaauuuuuu
-Droga
+# Inventario
+
+## Componenti
+- [Processori](./componenti/processori.md)
+- [Schede Madri](./componenti/schede_madri.md)
+
+## Periferiche
+- [Tastiere](./periferiche/tastiere.md)
+- [Mouse](./periferiche/mouse.md)
+
+Elettronica Padovana
